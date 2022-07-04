@@ -1,4 +1,4 @@
-Hei👋 I'm Jørn Ivar.<br>
+Hei👋 I'm Jørn Ivar🙂<br>
 I use Ansible for network-management.<br>
     
     ________________________________
